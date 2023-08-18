@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins';font-size: 22px;
-   
+   margin: 0;
 }
 h1{
    font-size: 70px; 
@@ -93,4 +93,8 @@ h1{
      border-image-slice: 1;
      
 }
- 
+.ss{
+    width: 90%;
+    height: 200%;
+    text-align: center;
+} 
